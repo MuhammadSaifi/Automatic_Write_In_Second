@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='Automatic_Write_In_Second'
